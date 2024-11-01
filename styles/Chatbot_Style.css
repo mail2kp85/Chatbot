@@ -1,0 +1,17 @@
+		body { font-family: Arial, sans-serif; margin: 20px; font-size: 10px; width:625px;}
+        #output { border: 1px solid #ccc; padding: 10px; width:100%; height: 400px; overflow-y: auto;}
+		#input {padding:5px; background-color:lightgrey; background-image: url(/chatbot/images/Sent_Arrow.png); background-repeat: no-repeat;
+    background-position: right; width: 637px;}
+        button { border:none; background-color:transparent; font-family: Arial, sans-serif; font-size: 10px; width:100%;}
+		button:hover {background-color: lightgray;font-family: Arial, sans-serif; font-size: 10px; cursor:pointer;}
+		#ResponseMsg { float: right;} 
+		h1 {background-color: blue; color:#fff; margin:0px; height:30px; padding:10px; background-image: url(/chatbot/images/Bot_Logo.jpg);
+    background-size: 75px; background-repeat: no-repeat; text-align: center; font-size: 30px; width: 627px; border-top-right-radius: 5px;
+    border-top-left-radius: 5px;}
+	
+		.col-left:hover {background-color: lightgray; cursor:pointer;}
+		.col-right {background-color: lightgray; float:right; margin:5px; padding:5px; border-radius:5px;}
+		.col-left {border: 1px solid lightblue; background-color: transparent; width:403px; text-align: center; margin-left:30px; }
+		.col-left-main {margin-top:5px; padding:5px; border: 1px; background-color:lightblue; width:395px; background-image: url(/chatbot/images/Bot_logo.png);
+		background-size: 30px; background-repeat: no-repeat; background-position: left; padding-left:35px; border-top-right-radius: 5px;
+    border-top-left-radius: 5px;}
